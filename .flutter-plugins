@@ -1,0 +1,19 @@
+# This is a generated file; do not edit or check into version control.
+flutter_plugin_android_lifecycle=/home/erickborges/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.15/
+geolocator=/home/erickborges/.pub-cache/hosted/pub.dev/geolocator-9.0.2/
+geolocator_android=/home/erickborges/.pub-cache/hosted/pub.dev/geolocator_android-4.1.8/
+geolocator_apple=/home/erickborges/.pub-cache/hosted/pub.dev/geolocator_apple-2.2.5/
+geolocator_web=/home/erickborges/.pub-cache/hosted/pub.dev/geolocator_web-2.1.6/
+geolocator_windows=/home/erickborges/.pub-cache/hosted/pub.dev/geolocator_windows-0.1.1/
+google_maps_flutter=/home/erickborges/.pub-cache/hosted/pub.dev/google_maps_flutter-2.2.6/
+google_maps_flutter_android=/home/erickborges/.pub-cache/hosted/pub.dev/google_maps_flutter_android-2.4.14/
+google_maps_flutter_ios=/home/erickborges/.pub-cache/hosted/pub.dev/google_maps_flutter_ios-2.2.1/
+maps_launcher=/home/erickborges/.pub-cache/hosted/pub.dev/maps_launcher-2.2.0/
+sqflite=/home/erickborges/.pub-cache/hosted/pub.dev/sqflite-2.2.8+4/
+url_launcher=/home/erickborges/.pub-cache/hosted/pub.dev/url_launcher-6.1.11/
+url_launcher_android=/home/erickborges/.pub-cache/hosted/pub.dev/url_launcher_android-6.0.34/
+url_launcher_ios=/home/erickborges/.pub-cache/hosted/pub.dev/url_launcher_ios-6.1.4/
+url_launcher_linux=/home/erickborges/.pub-cache/hosted/pub.dev/url_launcher_linux-3.0.5/
+url_launcher_macos=/home/erickborges/.pub-cache/hosted/pub.dev/url_launcher_macos-3.0.5/
+url_launcher_web=/home/erickborges/.pub-cache/hosted/pub.dev/url_launcher_web-2.0.16/
+url_launcher_windows=/home/erickborges/.pub-cache/hosted/pub.dev/url_launcher_windows-3.0.6/

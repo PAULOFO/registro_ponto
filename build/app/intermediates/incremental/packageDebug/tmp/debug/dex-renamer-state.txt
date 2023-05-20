@@ -1,0 +1,4 @@
+#Fri May 19 20:59:36 BRT 2023
+base.0=/home/erickborges/GitHub/registro_ponto/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -2,7 +2,7 @@
     package="com.example.registro_ponto">
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
    <application
-        android:label="registro_ponto"
+        android:label="Registro de ponto"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
